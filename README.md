@@ -51,3 +51,5 @@ This architecture follows a clean separation of concerns, with routes, controlle
 **package.json:** The package.json file serves as the configuration and metadata file for a Node.js project. In this specific example, it defines a project named "in-class-project" with version "1.0.0" and a description highlighting its purpose as a demonstration of multi-tiered application development. The file specifies the entry point as "index.js" and indicates that the project uses ES Modules ("type": "module"). It includes scripts for running tests and starting the development server, along with repository information, author details, and licensing information. Additionally, the file lists project dependencies such as Express, EJS, and dotenv for runtime use, and devDependencies like ESLint, Jest, Nodemon, and Supertest for development and testing purposes. This package.json file provides essential metadata and configurations for managing and running the project."# mern-starter" 
 "# mern-starter" 
 "# mern-starter" 
+#   m e r n - s t a r t e r  
+ 
